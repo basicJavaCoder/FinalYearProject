@@ -1,2 +1,30 @@
-****  AI in Unity for better game design  ****
-https://www.gamedesigning.org/learn/unity-ai/
+Basic Machine Learning Research 
+
+ 
+Python Prediction Model 
+ 
+https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b 
+ 
+
+Python Keras library: 
+
+ https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b 
+ 
+https://keras.io/ 
+ 
+Data collection 
+Steam Data + Scraper 
+https://ai.plainenglish.io/supervised-machine-learning-classification-predicting-possibility-of-steam-game-to-be-on-sale-a0043d0c5ba5 
+
+https://steamdb.info/ 
+
+https://github.com/opophehu/LR_Steam/blob/master/DataScrape/steam_scraper.py 
+
+https://github.com/adlzanchetta/steam_reviews_analysis 
+
+https://github.com/SteamRE/SteamKit 
+
+ 
+
+Official Steam API 
+https://steam.readthedocs.io/en/latest/api/steam.webapi.html 
